@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maël Valais&#39; Webpage on mvalais</title>
+    <link>/</link>
+    <description>Recent content in Maël Valais&#39; Webpage on mvalais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talk at GdR ISIS on October 6th</title>
+      <link>/post/2016/09/16/talk-at-gdr-isis-on-october-6th/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/09/16/talk-at-gdr-isis-on-october-6th/</guid>
+      <description>I will give a talk at the GdR ISIS meeting on October 6th at the UPMC (Paris). More info here, slides here and internship report here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>   2016-2016, UPS1  CM TD TP     L1 SNAF Algo 1 - - 42   L2 Info Logique 1 - - 12   L2 Info Système 1 - - 12     Université Toulouse 3 - Paul Sabatier ↩   </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Beside academic research, I also work on some development/hacking projects.
+TouIST (Toulouse Integrated Satisfiability Tool) Touist (see on github) is a Java and Ocaml project to provide a nice IDE as well as a high-level language for expressing and solving problems in propositional logic. This project was initiated during a school project in 2015 with three other school mates.
+Logistique de crise et aide humanitaire &amp;ldquo;Logistique de crise et aide humanitaire&amp;rdquo; is a research project completed during the M2 (2014-2015).</description>
+    </item>
+    
+  </channel>
+</rss>
