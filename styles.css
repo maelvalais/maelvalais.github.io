@@ -856,7 +856,7 @@ footer a#back_to_top i {
 }
 
 .navbar-default {
-  background: #005677;
+  background: #3f51b5;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -914,7 +914,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #005677 !important;
+  background-color: #3f51b5 !important;
 }
 
 .dropdown-menu > li > a {
@@ -931,13 +931,13 @@ nav#navbar-main li {
 .dropdown-menu>li>a:hover {
   color: #8c9eff;
   text-decoration: none;
-  background-color: #005677;
+  background-color: #3f51b5;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #005677;
+  color: #3f51b5;
   text-decoration: none;
   background-color: #8c9eff;
   outline: 0;
@@ -948,7 +948,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #005677 !important;
+  background-color: #3f51b5 !important;
 }
 
 .navbar-default .navbar-brand {
@@ -1024,10 +1024,6 @@ nav#navbar-main li {
     color: #fff;
     white-space: nowrap;
   }
-
-.adzadazd {
-  background-color: #0074a1;
-}
 
   .navbar-default .navbar-nav .open .dropdown-menu {
     position: static;
