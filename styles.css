@@ -792,12 +792,12 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #002984 !important;
+  background-color: #1c4864 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #757de8 !important;
+  background-color: #00a6e5 !important;
 }
 
 /*************************************************
