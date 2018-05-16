@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on mvalais</title>
+    <title>Posts on Maël Valais</title>
     <link>/post/</link>
-    <description>Recent content in Posts on mvalais</description>
+    <description>Recent content in Posts on Maël Valais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017 Maël Valais</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Talk at GdR ISIS on October 6th</title>
-      <link>/post/2016/09/16/talk-at-gdr-isis-on-october-6th/</link>
-      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016/09/16/talk-at-gdr-isis-on-october-6th/</guid>
-      <description>I will give a talk at the GdR ISIS meeting on October 6th at the UPMC (Paris). More info here, slides here and internship report here.</description>
-    </item>
     
   </channel>
 </rss>

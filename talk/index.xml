@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Maël Valais</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Maël Valais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Maël Valais</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation of our work on QBF Planning</title>
+      <link>/talk/2017-11-05-pregdr-maftec-presentation/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017-11-05-pregdr-maftec-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation of the master&#39;s thesis work</title>
+      <link>/talk/2016-09-16-gdr-isis-presentation/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016-09-16-gdr-isis-presentation/</guid>
+      <description>I gave a talk at a meeting of the GdR ISIS (a CNRS group working on Information, Signal, Image et ViSion) on October 6th at the. More info in my internship report.</description>
+    </item>
+    
+  </channel>
+</rss>
