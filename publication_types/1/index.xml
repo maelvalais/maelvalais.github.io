@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Maël Valais</title>
-    <link>/~Mael.Valais/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on Maël Valais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Maël Valais</copyright>
     <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/~Mael.Valais/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TouIST again... (Formalisez et résolvez facilement des problèmes avec des solveurs SAT, SMT et QBF)</title>
-      <link>/~Mael.Valais/publication/iaf2017/</link>
+      <link>/publication/iaf2017/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/~Mael.Valais/publication/iaf2017/</guid>
+      <guid>/publication/iaf2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La logique facile avec TouIST (formalisez et résolvez facilement des problèmes du monde réel)</title>
-      <link>/~Mael.Valais/publication/iaf2015/</link>
+      <link>/publication/iaf2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/~Mael.Valais/publication/iaf2015/</guid>
+      <guid>/publication/iaf2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twist your logic with TouIST</title>
-      <link>/~Mael.Valais/publication/ttl2015/</link>
+      <link>/publication/ttl2015/</link>
       <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/~Mael.Valais/publication/ttl2015/</guid>
+      <guid>/publication/ttl2015/</guid>
       <description></description>
     </item>
     
