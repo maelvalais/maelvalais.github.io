@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Maël Valais</title>
-    <link>/publication/</link>
+    <link>/~Mael.Valais/publication/</link>
     <description>Recent content in Publications on Maël Valais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Maël Valais</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/~Mael.Valais/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TouIST again... (Formalisez et résolvez facilement des problèmes avec des solveurs SAT, SMT et QBF)</title>
-      <link>/publication/iaf2017/</link>
+      <link>/~Mael.Valais/publication/iaf2017/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/iaf2017/</guid>
+      <guid>/~Mael.Valais/publication/iaf2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La logique facile avec TouIST (poster)</title>
-      <link>/publication/jfpda2017/</link>
+      <link>/~Mael.Valais/publication/jfpda2017/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/jfpda2017/</guid>
+      <guid>/~Mael.Valais/publication/jfpda2017/</guid>
       <description>This poster has been presented as a demonstration for TouIST.</description>
     </item>
     
     <item>
       <title>Optimization of Dictionaries Structured as Convolutional Trees for Sparse Image Representation - Master’s Thesis</title>
-      <link>/publication/mastersthesis/</link>
+      <link>/~Mael.Valais/publication/mastersthesis/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mastersthesis/</guid>
+      <guid>/~Mael.Valais/publication/mastersthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La logique facile avec TouIST (formalisez et résolvez facilement des problèmes du monde réel)</title>
-      <link>/publication/iaf2015/</link>
+      <link>/~Mael.Valais/publication/iaf2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/iaf2015/</guid>
+      <guid>/~Mael.Valais/publication/iaf2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twist your logic with TouIST</title>
-      <link>/publication/ttl2015/</link>
+      <link>/~Mael.Valais/publication/ttl2015/</link>
       <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ttl2015/</guid>
+      <guid>/~Mael.Valais/publication/ttl2015/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logic on Maël Valais</title>
-    <link>/tags/logic/</link>
+    <link>/~Mael.Valais/tags/logic/</link>
     <description>Recent content in Logic on Maël Valais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Maël Valais</copyright>
     <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/~Mael.Valais/tags/logic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TouIST</title>
-      <link>/project/touist/</link>
+      <link>/~Mael.Valais/project/touist/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/touist/</guid>
+      <guid>/~Mael.Valais/project/touist/</guid>
       <description>Touist (see on github) is a Java and Ocaml project to provide a nice IDE as well as a high-level language for expressing and solving problems in propositional logic. This project was initiated during a school project in 2015 with three other school mates.</description>
     </item>
     

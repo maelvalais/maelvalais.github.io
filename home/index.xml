@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Maël Valais</title>
-    <link>/home/</link>
+    <link>/~Mael.Valais/home/</link>
     <description>Recent content in Homes on Maël Valais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Maël Valais</copyright>
     <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/~Mael.Valais/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>/~Mael.Valais/home/about/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>LinkedIn profile (almost always up-to-date)  Resume/CV (updated on Oct. 1st, 2018)  
-Biography I am currently employed as a contractor at Orange, Toulouse (France). I work on developer tooling, examples and documentation in order to improve the developer experience when it comes to using the Orange IT&amp;rsquo;s private cloud. I also try to promote and find new ways to guide people into sharing their own code as well getting the most out of Orange&amp;rsquo;s internal GitLab.</description>
+      <guid>/~Mael.Valais/home/about/</guid>
+      <description>LinkedIn profile (almost always up-to-date)  Resume/CV (updated on Oct. 1st, 2018) Contact (academic): see below Contact (profesionnal): [mael.valais@gmail.com](), +33 7 86 48 43 91  
+Biography I am currently employed as a contractor at Orange, Toulouse (France). I work on tools for developers, examples and documentation in order to improve the developer experience when it comes to using the Orange IT&amp;rsquo;s private cloud. I also try to promote and find new ways to guide people into sharing their own code as well getting the most out of Orange&amp;rsquo;s internal GitLab.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>/~Mael.Valais/home/teaching/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>/~Mael.Valais/home/teaching/</guid>
       <description>A list of tutorials and lectures I gave as a teaching instructor.
 2018 (Université Toulouse 3 - Paul Sabatier)  Logique 1 (L1, Physics &amp;amp; Maths students): 7 lectures of 2h for ~30 students where I introduce and play with propositional logic (each lecture is composed of 1h of tutorial). Content:  Moodle Slides de cours et exos 1 à 23 Cours d&amp;rsquo;Andreas Herzig Correction des preuves des exos 14 et 18 Corrections exos 1 à 20 (il manque la correction des exos 21, 22 et 23) Exercices 1 à 3 &amp;ldquo;Énigmes logiques&amp;rdquo; avec les étudiants voleurs à faire pour le ven.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>/~Mael.Valais/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>/~Mael.Valais/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>/~Mael.Valais/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>/~Mael.Valais/home/publications/</guid>
       <description>Most publications are available on the lab&amp;rsquo;s publications page.</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>/~Mael.Valais/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>/~Mael.Valais/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>/~Mael.Valais/home/posts/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>/~Mael.Valais/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>/~Mael.Valais/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>/~Mael.Valais/home/projects/</guid>
       <description> Minor contributions to open-source software  boost graph is a part of the large Boost C++ library. I mainly contributed through bug fixes to max flow algorithms. gitlab is a competitor to Github; I proposed multiple bug fixes (as merge requests) to enhance the referencing behavior in issue tickets.  Projects contributed </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>/~Mael.Valais/home/contact/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>/~Mael.Valais/home/contact/</guid>
       <description></description>
     </item>
     
