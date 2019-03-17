@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maël Valais</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Maël Valais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Maël Valais</copyright>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TouIST</title>
+      <link>/project/touist/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/touist/</guid>
+      <description>Touist (see on github) is a Java and Ocaml project to provide a nice IDE as well as a high-level language for expressing and solving problems in propositional logic. This project was initiated during a school project in 2015 with three other school mates.</description>
+    </item>
+    
+    <item>
+      <title>Logistique de crise et aide humanitaire (fr)</title>
+      <link>/project/ccvrp/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ccvrp/</guid>
+      <description>&amp;ldquo;Logistique de crise et aide humanitaire&amp;rdquo; is a research project completed during the M2 (2014-2015). github, report (fr), slides (fr)</description>
+    </item>
+    
+  </channel>
+</rss>

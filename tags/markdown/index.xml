@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on mvalais</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on mvalais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talk at GdR ISIS on October 6th</title>
+      <link>/post/2016/09/16/talk-at-gdr-isis-on-october-6th/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/09/16/talk-at-gdr-isis-on-october-6th/</guid>
+      <description>I will give a talk at the GdR ISIS meeting on October 6th at the UPMC (Paris). More info here, slides here and internship report here.</description>
+    </item>
+    
+  </channel>
+</rss>

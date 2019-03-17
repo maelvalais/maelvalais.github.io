@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Maël Valais</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Maël Valais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Maël Valais</copyright>
+    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La logique facile avec TouIST (poster)</title>
+      <link>/publication/jfpda2017/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jfpda2017/</guid>
+      <description>This poster has been presented as a demonstration for TouIST.</description>
+    </item>
+    
+    <item>
+      <title>Optimization of Dictionaries Structured as Convolutional Trees for Sparse Image Representation - Master’s Thesis</title>
+      <link>/publication/mastersthesis/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mastersthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
