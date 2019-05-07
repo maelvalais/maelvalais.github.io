@@ -18,7 +18,8 @@
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>LinkedIn profile (most up-to-date information)  Resume/CV (updated on Oct. 1st, 2018 &amp;ndash; outdated) Contact (academic): see below Contact (professional): mael.valais@gmail.com, +33 7 86 48 43 91  ][irit] -- Biography I am currently employed by SQUAD and am currently contracted to Orange (Toulouse, France). I work on tools for developers, examples and documentation in order to improve the developer experience when it comes to using the Orange IT&amp;rsquo;s private cloud.</description>
+      <description>LinkedIn profile (most up-to-date information)  Resume/CV (updated on Oct. 1st, 2018 &amp;ndash; outdated) Contact (academic): see below Contact (professional): mael.valais@gmail.com, +33 7 86 48 43 91  ][irit] -- Biography  Note: if you want the most up-to-date information about me, I recommend taking a look at my LinkedIn page.
+ I am currently employed by SQUAD and am currently contracted to La Banque Postale (Toulouse, France).</description>
     </item>
     
     <item>
@@ -83,6 +84,15 @@
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description>My skills  Development tooling  vscode (multiple language extensions written) vim (language plugins written)  Build systems and tools  C++: Autotools, CMake, Qmake OCaml: Jbuilder, Oasis Rust: cargo, rustfmt Js: yarn/npm, bsb (for ReasonML), prettier  Continous integration  Travis CI, Circle CI, Appveyor  Deployment and production  Docker Terraform with AWS provider AWS ECS (elastic load balancing), EKS (managed kubernetes), Route53  Desktop GUIs  C++: Qt Java: Swing/AWT   Involvement in open source projects  Large open source projects (by order of contribution significance)</description>
     </item>
     
   </channel>
