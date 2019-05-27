@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vehicle Planning on Maël Valais</title>
+    <title>vehicle planning on Maël Valais</title>
     <link>/tags/vehicle-planning/</link>
-    <description>Recent content in Vehicle Planning on Maël Valais</description>
+    <description>Recent content in vehicle planning on Maël Valais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Maël Valais</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>/project/ccvrp/</guid>
-      <description>&amp;ldquo;Logistique de crise et aide humanitaire&amp;rdquo; is a research project completed during the M2 (2014-2015). github, report (fr), slides (fr)</description>
+      <description>Compared study of two routing methods for use in humanitarian disaster</description>
     </item>
     
   </channel>

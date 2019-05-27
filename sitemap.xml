@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/7/</loc>
+      <lastmod>2019-03-17T16:47:06+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     
@@ -7,6 +16,26 @@
     
       <loc>/publication/coplas2018/</loc>
       <lastmod>2019-03-17T16:47:06+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-05-27T15:35:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-03-17T16:47:06+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -32,6 +61,26 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2017-10-09T19:13:27+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-10-09T19:13:27+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/touist/</loc>
       <lastmod>2017-10-09T17:38:23+02:00</lastmod>
     </url>
@@ -41,8 +90,38 @@
     
     <url>
     
+      <loc>/tags/logic/</loc>
+      <lastmod>2017-10-09T17:38:23+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2017-10-09T17:38:23+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/iaf2017/</loc>
       <lastmod>2017-10-09T17:38:23+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/0/</loc>
+      <lastmod>2017-10-09T19:13:27+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -140,28 +219,8 @@
     
     <url>
     
-      <loc>/publication_types/0/</loc>
+      <loc>/tags/vehicle-planning/</loc>
       <lastmod>2017-10-09T19:13:27+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2017-10-09T17:38:23+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/7/</loc>
-      <lastmod>2019-03-17T16:47:06+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,66 +230,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/logic/</loc>
-      <lastmod>2017-10-09T17:38:23+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-05-08T10:00:18+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2017-10-09T17:38:23+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2017-10-09T19:13:27+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-10-09T17:38:23+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/vehicle-planning/</loc>
-      <lastmod>2017-10-09T19:13:27+02:00</lastmod>
       <priority>0</priority>
     </url>
     
